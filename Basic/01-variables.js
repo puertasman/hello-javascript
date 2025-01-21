@@ -1,29 +1,15 @@
-/*
-Clase 16 - Variables
-Vídeo: https://youtu.be/1glVfFxj8a4?t=3049
-*/
-
-// var
-
-var helloWorld = "¡Hola, JavaScript!"
+//var
+var helloWorld = "Hello World"
 console.log(helloWorld)
 
-helloWorld = "¡Hola de nuevo, JavaScript!"
+helloWorld = "nuevamente hola"
 console.log(helloWorld)
 
-// let
-
-let helloWorld2 = "¡Hola, JavaScript 2!"
+//let
+let helloWorld2 = "Hello World"
 console.log(helloWorld2)
 
-helloWorld2 = "¡Hola de nuevo, JavaScript 2!"
+helloWorld2 = "nuevamente hola"
 console.log(helloWorld2)
 
-// const
-
-const helloWorld3 = "¡Hola, JavaScript 3!"
-console.log(helloWorld3)
-
-// Error
-// helloWorld3 = "¡Hola de nuevo, JavaScript 2!"
-// console.log(helloWorld3)
+//const
